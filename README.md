@@ -1,12 +1,4 @@
-![](https://repository-images.githubusercontent.com/286907609/eb884086-46d8-44bf-95c1-fc2ed8362122) 
-//python pip install needed
 
-# DingoLingo
-A Discord music bot written in Python with support for Youtube, SoundCloud, Spotify, Bandcamp, Twitter, and custom files.
-
-### Keep in mind:
-* The Wiki may have the answer you are looking for https://github.com/Raptor123471/DingoLingo/wiki
-* Known problems are listed in Issues. If you are interested in this project feel free to submit an Issue.
 
 
 <h3>What's Coming?</h1>
@@ -17,10 +9,7 @@ A Discord music bot written in Python with support for Youtube, SoundCloud, Spot
 
 #### API Keys
 * Discord - https://discord.com/developers
-* Spotify (optional) - https://developer.spotify.com/dashboard/
-  - Client ID
-  - Client Secret
-  - Note: Limited to 50 playlist items without API
+
 
 Obtained keys must be entered into ```config/config.py```
 
@@ -34,10 +23,6 @@ pip install -r requirements.txt
 ```
 * Located in ```/config```
 
-For Linux:
-* ffmpeg
-* libffi-dev 
-* libnacl-dev 
 
 ### Installing - Self hosting
 
