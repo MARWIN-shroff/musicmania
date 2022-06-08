@@ -1,5 +1,5 @@
 ![](https://repository-images.githubusercontent.com/286907609/eb884086-46d8-44bf-95c1-fc2ed8362122) 
-
+//python pip install needed
 
 # DingoLingo
 A Discord music bot written in Python with support for Youtube, SoundCloud, Spotify, Bandcamp, Twitter, and custom files.
